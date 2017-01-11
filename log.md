@@ -39,3 +39,17 @@
 **Thoughts** Didn't really code much but got better understanding of API's and AJAX parts of the puzzle.
 
 
+### Day 6: January 10, 2017
+
+**Today's Progress**: Signed up for #javascript30 challenge by Wes Bos. Finished the day 1 project- Drum kit. 
+
+**Thoughts** Had super duper fun finishing the drum kit project. Learned a lot of new things today.
+- data- attribute and how to use it.
+- a few new HTML5 tags like KBD, audio and used them for the first time
+- learnt ES6 template strings which basically takes JS expressions and substitute it for a variable and even more.
+- used document.querySelector for the first time.
+
+All in all a very productive day. I was happy to finish the project.
+
+**Link to work:** [Drum kit](http://manalijoshi.net/javascript-30challenges/drum-kit/ch-1-drum-kit.html)
+
