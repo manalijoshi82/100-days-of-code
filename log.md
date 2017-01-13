@@ -53,3 +53,23 @@ All in all a very productive day. I was happy to finish the project.
 
 **Link to work:** [Drum kit](http://manalijoshi.net/javascript-30challenges/drum-kit/ch-1-drum-kit.html)
 
+
+
+### Day 7: January 11, 2017
+
+**Today's Progress**: Worked on the clock project as a part of javascript30 challenge. 
+
+**Thoughts** The clock project was fun learning experience. Used ES6 template strings today as well. had some math expressions. I still have a little trouble getting the glitch out at the 60th second. Will keep working on that.
+
+
+### Day 8: January 12, 2017
+
+**Today's Progress**: Flex panel image gallery project as a part of JS30 challenge. 
+
+**Thoughts** Today I did a lot of flexbox and a little of js just to hook things up. I did take a few flexbox tutorials in the past, and so it was a little easier to get hang of flex in today's project. I need to dig deep into transition property. I am thinking about signing up for the flexbox series by Wes Bos.
+- I totally enjoyed the cool css part of the project.
+- I loved the interactivity, and the cool effects that the transition bought into the game.
+
+Will soon put the link to the project.
+
+
