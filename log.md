@@ -73,3 +73,29 @@ All in all a very productive day. I was happy to finish the project.
 Will soon put the link to the project.
 
 
+### Day 9: January 14, 2017
+
+**Today's Progress**: jQuery course on codeacademy
+
+**Thoughts** Needed to solidify some jquery events and DOM manipulation.
+I realised while working on FCC's wikipedia viewer project that I need to solidify my understanding of DOM manipulation. So I went through the jquesy material one more time, pause and understand it very well so that I can apply my knowledge to the FCC projects further.
+I came across some really cool jquery effects that I want to put it to use and build something cool and interactive as one of my coding days out of 100.
+
+### Day 10: January 16, 2017
+
+**Today's Progress**: Built a simple to do list on codepen
+
+**Thoughts** While learning jquery events I thought I should build a simple to do list where I can apply what I learnt.
+In this process I learnt how to use reset method in jquery to empty the imput box after the item gets added into the list. It's a javascript method which if you want to use in jquery, you will have to convert into object and then access like an array.
+I further want to modify my the todo list with features like-
+- Hitting enter should add the item to the list.
+- may be add a dropdown for days of the week and then add the items to that particular days.
+
+and even more.....
+
+**Link to work:** [TO DO LIST](http://codepen.io/manalij/full/LxbYwJ/)
+
+
+
+
+
