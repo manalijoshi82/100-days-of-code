@@ -127,6 +127,72 @@ Completely enjoyed working on this one especially the last part when things star
 **Link to work:** [Wikipedia Viewer](http://codepen.io/manalij/full/EKoMgM/)
 
 
+### Day 14: January 23, 2017
+
+**Today's Progress**: Flexbox Tutorial
+
+**Thoughts** Found a really good resource on flexbox. Spent really good hours today and reached up to alignment video on Wes Bos's flexbox tutorial. flexbox is really a fun and productive way of building websites.
+
+I am totally loving building with flexbox.
+
+
+### Day 15: January 24, 2017
+
+**Today's Progress**: Twitch.tv- FCC project
+
+**Thoughts**  I can't believe I am working on the Twitch.tv, which is the intermediate FCC project. After I finish this one I will be done with all the intermediate projects.
+
+Added the link to check if the FCC is online. 
+
+Next steps - pull the data of all the streamers and show if they are online. If they are, then user should be able to display the game they are on and the status. Don't know how I will do it exactly. But one step at a time.
+
+Still not close to where where I want to be for this one but included the link anyway!
+
+**Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
+
+### Day 16: January 25, 2017
+
+**Today's Progress**: Twitch.tv- FCC project
+
+**Thoughts**  Oh...did I say I am working on the twitch.tv for FCC 
+It's taking time to grasp of all things ajax. Dynamically asking for data and displaying all up on your web page is no joke it seems!!
+
+**Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
+
+
+### Day 17: January 27, 2017
+
+**Today's Progress**: Built a navbar using flexbox.
+
+**Thoughts**  For a change today, I am working on flexbox's nav bar. To give myself a break, here I am to build something quicker and cooler than what I have been doing for last 2 days.
+
+With a few flexbox's key properties, you can turn the nav bar into some magical element on the page which seems like you have shaken up a lot of properties but in reality, just a few key properties and you are good to go.
+
+
+Wills soon be adding the link when I will set it all up.
+
+
+### Day 18: January 27, 2017
+
+**Today's Progress**: twitch and only Twitch.tv
+It's finely coming together. It has taken some time, but I am taking this time really understand the basic building blocks of the project.
+
+Wills soon be adding the link when I will set it all up.
+
+**Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
+
+
+### Day 19: January 29, 2017
+
+**Today's Progress**: Twitch.TV DONE DONE DONE
+
+Got ready with the twitch.tv project. Learned a lot of things from this very important project.
+
+**Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
+
+
+
+
 
 
 
