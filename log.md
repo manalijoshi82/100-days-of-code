@@ -200,6 +200,8 @@ WP is a big, huge world in itself and I just started exploring this awesome worl
 
 Also added some FCC projects on my portfolio site. 
 
+Finished skillcrush's first course and moved on to the next which is git and github. Just practising the habit of pushing and pulling and making my git muscles stronger!
+
 **Link to work:** Will be adding the link to my new wp site soon! for now here is the portfolio site. 
 
 [manalijoshi.net](http://manalijoshi.net/)
