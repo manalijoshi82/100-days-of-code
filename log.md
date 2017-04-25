@@ -177,7 +177,7 @@ Wills soon be adding the link when I will set it all up.
 **Today's Progress**: twitch and only Twitch.tv
 It's finely coming together. It has taken some time, but I am taking this time really understand the basic building blocks of the project.
 
-Wills soon be adding the link when I will set it all up.
+Will soon be adding the link when I will set it all up.
 
 **Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
 
@@ -189,6 +189,18 @@ Wills soon be adding the link when I will set it all up.
 Got ready with the twitch.tv project. Learned a lot of things from this very important project.
 
 **Link to work:** [Twitch.tv](http://manalijoshi.net/twitch-tv/index.html)
+
+
+### Day 52: April 25, 2017
+
+**Today's Progress**: Done with freecodecamp certificate and started with wordpress with skillcrush
+
+Didn't commit for a long time but did work on a lot of things in the mean time. Super happy to finish freecodecamp and got started learning wordpress. Learning php, installing wordpress itself on the local machine, installing and custemozing WP themes, bought a new domain and a host and transferred my local files to the server.
+WP is a big, huge world in itself and I just started exploring this awesome world!!
+
+Also added some FCC projects on my portfolio site. 
+
+**Link to work:** Will be adding the link to my new wp site soon! for now here is the portfolio site. http://manalijoshi.net/
 
 
 
