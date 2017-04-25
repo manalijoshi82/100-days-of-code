@@ -200,7 +200,9 @@ WP is a big, huge world in itself and I just started exploring this awesome worl
 
 Also added some FCC projects on my portfolio site. 
 
-**Link to work:** Will be adding the link to my new wp site soon! for now here is the portfolio site. http://manalijoshi.net/
+**Link to work:** Will be adding the link to my new wp site soon! for now here is the portfolio site. 
+
+[manalijoshi.net](http://manalijoshi.net/)
 
 
 
