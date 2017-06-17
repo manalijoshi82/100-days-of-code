@@ -207,6 +207,9 @@ Finished skillcrush's first course and moved on to the next which is git and git
 [manalijoshi.net](http://manalijoshi.net/)
 
 
+### Day 85: June 13, 2017
+
+**Today's Progress**: Started to redo wordpress projects
 
 
 
